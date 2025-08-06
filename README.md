@@ -40,8 +40,7 @@ To explore and analyze Netflix's content catalog using SQL queries and derive me
 
 ## 🛠️ Tools Used
 
-- SQL (PostgreSQL / SQLite)
-- SQL Editor / DB Browser
+- SQL (PostgreSQL)
 - Microsoft Word (for report formatting)
 
 ---
