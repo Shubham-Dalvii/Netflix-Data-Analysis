@@ -1,4 +1,4 @@
-![Netflix_Image]
+![Netflix_Image](netflix.jpg)
 
 # Netflix-Data-Analysis using SQL
 
