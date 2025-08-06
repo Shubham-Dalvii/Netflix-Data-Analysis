@@ -1,3 +1,5 @@
+![Netflix_Image]()
+
 # Netflix-Data-Analysis using SQL
 
 This project performs **Exploratory Data Analysis (EDA)** on a Netflix dataset using **SQL** to uncover patterns in content type, ratings, genres, country distribution, actor appearances, and time-based trends.
@@ -12,8 +14,8 @@ To explore and analyze Netflix's content catalog using SQL queries and derive me
 
 ## 🗂️ Dataset Summary
 
-- **Source**: [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
-- **Records**: ~6,000+
+- **Source**: [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Records**: ~8,800+
 - **Features**:
   - `title`, `type`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
